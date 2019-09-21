@@ -6,7 +6,7 @@
   </head>
   <body>
       <outline text="旭川市旭山動物園（Asahiyamazoo） - YouTube" title="旭川市旭山動物園（Asahiyamazoo）" type="rss" version="RSS" htmlUrl="https://www.youtube.com/channel/UCMNKHK7MyNoWZlGhuej1SPw" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCMNKHK7MyNoWZlGhuej1SPw" />
-      <outline text="最新情報 – おたる水族館" title="最新情報 – おたる水族館" type="rss" version="RSS" htmlUrl="https://otaru-aq.jp/choineta/news/feed/atom" xmlUrl="https://otaru-aq.jp/choineta/news/feed/atom/" />
+      <outline text="最新情報 – おたる水族館" title="最新情報 – おたる水族館" type="rss" version="RSS" htmlUrl="https://otaru-aq.jp" xmlUrl="https://otaru-aq.jp/choineta/news/feed/atom" />
       <outline text="おびひろ動物園公式ブログ" title="おびひろ動物園公式ブログ" type="rss" version="RSS" htmlUrl="https://ameblo.jp/obihirozoo/" xmlUrl="http://rssblog.ameba.jp/obihirozoo/rss20.xml" />
       <outline text="登別マリンパークニクス - YouTube" title="登別マリンパークニクス" type="rss" version="RSS" htmlUrl="https://www.youtube.com/channel/UCPiDCozdASYhhimhs0V3ERQ" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCPiDCozdASYhhimhs0V3ERQ" />
       <outline text="obihirozoo - YouTube" title="obihirozoo" type="rss" version="RSS" htmlUrl="https://www.youtube.com/channel/UCHOmx1Xk8M47B6c9r_iTXFw" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCHOmx1Xk8M47B6c9r_iTXFw" />
@@ -14,11 +14,11 @@
       <outline text="RSS (帯広市のトップページ)" title="RSS (帯広市のトップページ)" type="rss" version="RSS" htmlUrl="https://www.city.obihiro.hokkaido.jp/" xmlUrl="https://www.city.obihiro.hokkaido.jp/index.rdf" />
       <outline text="北海道釧路市　RSS" title="北海道釧路市　RSS" type="rss" version="RSS" htmlUrl="https://www.city.kushiro.lg.jp/new/index.html" xmlUrl="https://www.city.kushiro.lg.jp/rss/rss.rdf" />
       <outline text="北海道の水族館ニュース – 登別マリンパークニクス[公式]" title="北海道の水族館ニュース – 登別マリンパークニクス[公式]" type="rss" version="RSS" htmlUrl="https://www.nixe.co.jp" xmlUrl="https://www.nixe.co.jp/news/feed/atom/" />
-      <outline text="おたる水族館" title="おたる水族館" type="rss" version="RSS" htmlUrl="https://otaru-aq.jp/feed/atom" xmlUrl="https://otaru-aq.jp/feed/atom/" />
-      <outline text="新札幌 「サンピアザ水族館」 - 飼育員日誌" title="新札幌 「サンピアザ水族館」 - 飼育員日誌" type="rss" version="RSS" htmlUrl="https://www.blogger.com/feeds/4715562439996999862/posts/default" xmlUrl="https://sunpiazza-aquarium.blogspot.com/feeds/posts/default" />
+      <outline text="おたる水族館" title="おたる水族館" type="rss" version="RSS" htmlUrl="https://otaru-aq.jp" xmlUrl="https://otaru-aq.jp/feed/atom" />
+      <outline text="新札幌 「サンピアザ水族館」 - 飼育員日誌" title="新札幌 「サンピアザ水族館」 - 飼育員日誌" type="rss" version="RSS" htmlUrl="https://sunpiazza-aquarium.blogspot.com/" xmlUrl="https://sunpiazza-aquarium.blogspot.com/feeds/posts/default" />
       <outline text="chitoseame910 - YouTube" title="chitoseame910" type="rss" version="RSS" htmlUrl="https://www.youtube.com/channel/UCqKrHvtwVmlWindFcZ9X39A" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCqKrHvtwVmlWindFcZ9X39A" />
       <outline text="弥生いこいの広場" title="弥生いこいの広場" type="rss" version="RSS" htmlUrl="http://blog.livedoor.jp/yayoikoi/" xmlUrl="http://blog.livedoor.jp/yayoikoi/atom.xml" />
-      <outline text="サケのふるさと 千歳水族館" title="サケのふるさと 千歳水族館" type="rss" version="RSS" htmlUrl="https://chitose-aq.jp/feed/atom" xmlUrl="https://chitose-aq.jp/feed/atom/" />
+      <outline text="サケのふるさと 千歳水族館" title="サケのふるさと 千歳水族館" type="rss" version="RSS" htmlUrl="https://chitose-aq.jp" xmlUrl="https://chitose-aq.jp/feed/atom" />
       <outline text="秋田市公式YouTubeチャンネル - YouTube" title="秋田市公式YouTubeチャンネル" type="rss" version="RSS" htmlUrl="https://www.youtube.com/channel/UCR39N_DInHCqT1n72gwbURg" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCR39N_DInHCqT1n72gwbURg" />
       <outline text="釧路市動物園Kushiro Zoo - YouTube" title="釧路市動物園Kushiro Zoo" type="rss" version="RSS" htmlUrl="https://www.youtube.com/channel/UCmRGcNmIdWd7-BAoCf6T8Hw" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCmRGcNmIdWd7-BAoCf6T8Hw" />
       <outline text="宇都宮動物園 飼育員のブログ" title="宇都宮動物園 飼育員のブログ" type="rss" version="RSS" htmlUrl="https://ameblo.jp/utsunomiyazoo/" xmlUrl="http://rssblog.ameba.jp/utsunomiyazoo/rss20.xml" />
@@ -46,7 +46,7 @@
       <outline text="のびのびシティ通信" title="のびのびシティ通信" type="rss" version="RSS" htmlUrl="http://saitamapr.exblog.jp" xmlUrl="https://saitamapr.exblog.jp/atom.xml" />
       <outline text="saitama citypr - YouTube" title="saitama citypr" type="rss" version="RSS" htmlUrl="https://www.youtube.com/channel/UCDpL8p4S4TUZ9p3OiWfS2oQ" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCDpL8p4S4TUZ9p3OiWfS2oQ" />
       <outline text="智光山公園こども動物園 - YouTube" title="智光山公園こども動物園" type="rss" version="RSS" htmlUrl="https://www.youtube.com/channel/UCx79hfaNC3Ln85_Oqk-BC-w" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCx79hfaNC3Ln85_Oqk-BC-w" />
-      <outline text="はむらZOO小噺" title="はむらZOO小噺" type="rss" version="RSS" htmlUrl="https://www.blogger.com/feeds/7435799685999780059/posts/default" xmlUrl="https://hamura-z.blogspot.com/feeds/posts/default" />
+      <outline text="はむらZOO小噺" title="はむらZOO小噺" type="rss" version="RSS" htmlUrl="https://hamura-z.blogspot.com/" xmlUrl="https://hamura-z.blogspot.com/feeds/posts/default" />
       <outline text="Tokyo ZooNet - YouTube" title="Tokyo ZooNet" type="rss" version="RSS" htmlUrl="https://www.youtube.com/channel/UC72bkkvKulLl_muXs0ygF_Q" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC72bkkvKulLl_muXs0ygF_Q" />
       <outline text="kasai suizokuen - YouTube" title="kasai suizokuen" type="rss" version="RSS" htmlUrl="https://www.youtube.com/channel/UCanUP77zPKOr3K0tLXNmKGg" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCanUP77zPKOr3K0tLXNmKGg" />
       <outline text="横浜市立野毛山動物園 - YouTube" title="横浜市立野毛山動物園" type="rss" version="RSS" htmlUrl="https://www.youtube.com/channel/UChInOKLqb0CblsUUwqMWCEQ" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UChInOKLqb0CblsUUwqMWCEQ" />
@@ -125,7 +125,7 @@
       <outline text="姫Ｚｏｏぶろぐ" title="姫Ｚｏｏぶろぐ" type="rss" version="RSS" htmlUrl="http://hcityzoo.exblog.jp" xmlUrl="https://hcityzoo.exblog.jp/atom.xml" />
       <outline text="姫セン・遊園地ブログ" title="姫セン・遊園地ブログ" type="rss" version="RSS" htmlUrl="https://blogs.yahoo.co.jp/himesenyuuenti" xmlUrl="https://blogs.yahoo.co.jp/himesenyuuenti/rss.xml" />
       <outline text="姫路セントラルパーク 「サファリ飼育日誌」" title="姫路セントラルパーク 「サファリ飼育日誌」" type="rss" version="RSS" htmlUrl="https://blogs.yahoo.co.jp/safari641611" xmlUrl="https://blogs.yahoo.co.jp/safari641611/rss.xml" />
-      <outline text="姫路市ホームページ：新着情報" title="姫路市ホームページ：新着情報" type="rss" version="RSS" htmlUrl="http://www.city.himeji.lg.jp/index_old.html" xmlUrl="http://www.city.himeji.lg.jp/rss/index.xml" />
+      <outline text="姫路市ホームページ：新着情報" title="姫路市ホームページ：新着情報" type="rss" version="RSS" xmlUrl="http://www.city.himeji.lg.jp/rss/index.xml" />
       <outline text="新着情報 – イングランドの丘" title="新着情報 – イングランドの丘" type="rss" version="RSS" htmlUrl="https://www.england-hill.com" xmlUrl="https://www.england-hill.com/news/feed/atom/" />
       <outline text="神戸どうぶつ王国 - YouTube" title="神戸どうぶつ王国" type="rss" version="RSS" htmlUrl="https://www.youtube.com/channel/UC9-vdbso1BCrfOIvMYye6Kg" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC9-vdbso1BCrfOIvMYye6Kg" />
       <outline text="王子動物園" title="王子動物園" type="rss" version="RSS" htmlUrl="http://www.kobe-ojizoo.jp/blog" xmlUrl="http://www.kobe-ojizoo.jp/blog/feed/atom/" />
@@ -134,7 +134,7 @@
       <outline text="大阪・海遊館 Osaka Aquarium Kaiyukan - YouTube" title="大阪・海遊館 Osaka Aquarium Kaiyukan" type="rss" version="RSS" htmlUrl="https://www.youtube.com/channel/UC-veA4H0QF3Ev4uZe9vpQrQ" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC-veA4H0QF3Ev4uZe9vpQrQ" />
       <outline text="姫路市立水族館のブログ　飼育係の日々" title="姫路市立水族館のブログ　飼育係の日々" type="rss" version="RSS" htmlUrl="http://hcityaqua.exblog.jp" xmlUrl="https://hcityaqua.exblog.jp/atom.xml" />
       <outline text="安佐動物公園" title="安佐動物公園" type="rss" version="RSS" htmlUrl="http://www.asazoo.jp/" xmlUrl="http://www.asazoo.jp/atom.xml" />
-      <outline text="海遊館" title="海遊館" type="rss" version="RSS" htmlUrl="http://www.kaiyukan.com/atom.xml" xmlUrl="https://www.kaiyukan.com/atom.xml" />
+      <outline text="海遊館" title="海遊館" type="rss" version="RSS" htmlUrl="http://www.kaiyukan.com/" xmlUrl="https://www.kaiyukan.com/atom.xml" />
       <outline text="琵琶湖博物館 - YouTube" title="琵琶湖博物館" type="rss" version="RSS" htmlUrl="https://www.youtube.com/channel/UCGrj0nj628Y0jTaUSvLgLFQ" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCGrj0nj628Y0jTaUSvLgLFQ" />
       <outline text="須磨海浜水族園web - YouTube" title="須磨海浜水族園web" type="rss" version="RSS" htmlUrl="https://www.youtube.com/channel/UC6E1q14gVbcFXRL_8nwospg" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC6E1q14gVbcFXRL_8nwospg" />
       <outline text="飼育係の落書帳（伊勢シーパラダイス）" title="飼育係の落書帳（伊勢シーパラダイス）" type="rss" version="RSS" htmlUrl="https://ameblo.jp/iseseapara/" xmlUrl="http://rssblog.ameba.jp/iseseapara/rss20.xml" />
@@ -173,11 +173,11 @@
       <outline text="お知らせ｜愛媛県立とべ動物園" title="お知らせ" type="rss" version="RSS" htmlUrl="https://www.tobezoo.com/tobetopics/" xmlUrl="https://www.tobezoo.com/tobetopics/atom.xml" />
       <outline text="大牟田市動物園 -Omuta city zoo-" title="大牟田市動物園 -Omuta city zoo-" type="rss" version="RSS" htmlUrl="https://omutacityzoo.org" xmlUrl="https://omutacityzoo.org/feed/atom" />
       <outline text="福岡チャンネル by Fukuoka city - YouTube" title="福岡チャンネル by Fukuoka city" type="rss" version="RSS" htmlUrl="https://www.youtube.com/channel/UCYv8ulRwRtKMNLh7ilSMf-w" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCYv8ulRwRtKMNLh7ilSMf-w" />
-      <outline text="福岡市動物園ブログ" title="福岡市動物園ブログ" type="rss" version="RSS" htmlUrl="https://www.blogger.com/feeds/7556373246423021455/posts/default" xmlUrl="https://fukuokazoo.blogspot.com/feeds/posts/default" />
+      <outline text="福岡市動物園ブログ" title="福岡市動物園ブログ" type="rss" version="RSS" htmlUrl="https://fukuokazoo.blogspot.com/" xmlUrl="https://fukuokazoo.blogspot.com/feeds/posts/default" />
       <outline text="鳥類センター – （公財）久留米市都市公園管理センター" title="鳥類センター – （公財）久留米市都市公園管理センター" type="rss" version="RSS" htmlUrl="https://kurumekoen.org" xmlUrl="https://kurumekoen.org/feed/atom/?cat=14%2C15" />
       <outline text="到津の森公園公式チャンネル - YouTube" title="到津の森公園公式チャンネル" type="rss" version="RSS" htmlUrl="https://www.youtube.com/channel/UCohP6AbkHrix_MWPhqRJB2A" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCohP6AbkHrix_MWPhqRJB2A" />
       <outline text="到津の森公園" title="到津の森公園" type="rss" version="RSS" htmlUrl="https://www.itozu-zoo.jp/" xmlUrl="https://www.itozu-zoo.jp/atom.xml" />
-      <outline text="久留米市鳥類センター　スタッフブログ 　いろ鳥どり" title="久留米市鳥類センター　スタッフブログ 　いろ鳥どり" type="rss" version="RSS" htmlUrl="https://www.blogger.com/feeds/4192310641544637923/posts/default" xmlUrl="https://kurumebirdcenter.blogspot.com/feeds/posts/default" />
+      <outline text="久留米市鳥類センター　スタッフブログ 　いろ鳥どり" title="久留米市鳥類センター　スタッフブログ 　いろ鳥どり" type="rss" version="RSS" htmlUrl="https://kurumebirdcenter.blogspot.com/" xmlUrl="https://kurumebirdcenter.blogspot.com/feeds/posts/default" />
       <outline text="久留米市鳥類センター - YouTube" title="久留米市鳥類センター" type="rss" version="RSS" htmlUrl="https://www.youtube.com/channel/UC2ghkdmPNsVLCWNZNM9Tutw" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC2ghkdmPNsVLCWNZNM9Tutw" />
       <outline text="【公式】大牟田市動物園 Omuta City Zoo - YouTube" title="【公式】大牟田市動物園 Omuta City Zoo" type="rss" version="RSS" htmlUrl="https://www.youtube.com/channel/UCg349ub4Qm_rrWBcKd6FY2g" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCg349ub4Qm_rrWBcKd6FY2g" />
       <outline text="africansafarimovie - YouTube" title="africansafarimovie" type="rss" version="RSS" htmlUrl="https://www.youtube.com/channel/UCGcswlYKHLOQ_M1WSHhnitA" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCGcswlYKHLOQ_M1WSHhnitA" />

@@ -448,6 +448,7 @@
       </outline>
       <outline text="大牟田動物園">
         <outline text="大牟田市動物園 -Omuta city zoo-" title="大牟田市動物園 -Omuta city zoo-" type="rss" version="RSS" htmlUrl="https://omutacityzoo.org" xmlUrl="https://omutacityzoo.org/feed/atom" />
+        <outline text="サファリな連中" title="サファリな連中" type="rss" version="RSS" htmlUrl="http://omutazoo.exblog.jp" xmlUrl="https://omutazoo.exblog.jp/atom.xml" />
         <outline text="【公式】大牟田市動物園 Omuta City Zoo - YouTube" title="【公式】大牟田市動物園 Omuta City Zoo" type="rss" version="RSS" htmlUrl="https://www.youtube.com/channel/UCg349ub4Qm_rrWBcKd6FY2g" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCg349ub4Qm_rrWBcKd6FY2g" />
       </outline>
       <outline text="久留米鳥類センター">

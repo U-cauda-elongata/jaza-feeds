@@ -457,6 +457,7 @@
         <outline text="久留米市鳥類センター - YouTube" title="久留米市鳥類センター" type="rss" version="RSS" htmlUrl="https://www.youtube.com/channel/UC2ghkdmPNsVLCWNZNM9Tutw" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC2ghkdmPNsVLCWNZNM9Tutw" />
       </outline>
       <outline text="海の中道動物の森">
+        <outline text="海の中道海浜公園Uminonakamichi Seaside Park - YouTube" title="海の中道海浜公園Uminonakamichi Seaside Park" type="rss" version="RSS" htmlUrl="https://www.youtube.com/channel/UCBfdRjobx1aT3YqVc3jgrLA" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCBfdRjobx1aT3YqVc3jgrLA" />
       </outline>
       <outline text="九十九島動植物園">
         <outline text="九十九島動植物園森きらら | 長崎県佐世保市の動植物園 西海国立公園" type="rss" version="RSS" htmlUrl="https://www.morikirara.jp" xmlUrl="https://www.morikirara.jp/?feed=atom&amp;post_type=news" />
@@ -492,7 +493,6 @@
         <outline text="マリンワールド海の中道" title="マリンワールド海の中道" type="rss" version="RSS" htmlUrl="https://marine-world.jp" xmlUrl="https://marine-world.jp/feed/atom/?post_type=news" />
         <outline text="ピックアップ | マリンワールド海の中道" title="マリンワールド海の中道" type="rss" version="RSS" htmlUrl="https://marine-world.jp" xmlUrl="https://marine-world.jp/feed/atom/?post_type=pick_up" />
         <outline text="お知らせ | マリンワールド海の中道" title="マリンワールド海の中道" type="rss" version="RSS" htmlUrl="https://marine-world.jp" xmlUrl="https://marine-world.jp/feed/atom/?post_type=staff_blog" />
-        <outline text="海の中道海浜公園Uminonakamichi Seaside Park - YouTube" title="海の中道海浜公園Uminonakamichi Seaside Park" type="rss" version="RSS" htmlUrl="https://www.youtube.com/channel/UCBfdRjobx1aT3YqVc3jgrLA" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCBfdRjobx1aT3YqVc3jgrLA" />
       </outline>
       <outline text="大分マリーンパレス">
         <outline text="大分マリーンパレス水族館「うみたまご」公式サイト  大分観光" title="大分マリーンパレス水族館「うみたまご」公式サイト | 大分観光" type="rss" version="RSS" htmlUrl="https://www.umitamago.jp" xmlUrl="https://www.umitamago.jp/feed/atom/" />

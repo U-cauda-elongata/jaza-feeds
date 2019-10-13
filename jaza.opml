@@ -253,6 +253,7 @@
         <outline text="熱川バナナワニ園" title="熱川バナナワニ園" type="rss" version="RSS" htmlUrl="http://bananawani.jp" xmlUrl="http://bananawani.jp/feed/atom/" />
       </outline>
       <outline text="日本平動物園">
+        <outline text="一般財団法人 静岡市動物園協会" title="一般財団法人 静岡市動物園協会" type="rss" version="RSS" htmlUrl="http://www.szga.jp" xmlUrl="http://www.szga.jp/?feed=atom" />
         <outline text="nihondairazoo - YouTube" title="nihondairazoo" type="rss" version="RSS" htmlUrl="https://www.youtube.com/channel/UCaqyMZ2iE63AtlB2mEW16EQ" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCaqyMZ2iE63AtlB2mEW16EQ" />
       </outline>
       <outline text="浜松動物園">

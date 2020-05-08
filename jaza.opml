@@ -94,7 +94,8 @@
       <outline text="桐生が岡動物園">
       </outline>
       <outline text="群馬サファリ">
-        <outline text="群馬サファリパーク" title="群馬サファリパーク" type="rss" version="RSS" htmlUrl="https://www.safari.co.jp/" xmlUrl="https://www.safari.co.jp/rss2.xml" />
+        <outline text="最新情報 – 野生の王国 群馬サファリパーク" title="最新情報 – 野生の王国 群馬サファリパーク" type="rss" version="RSS" htmlUrl="https://www.safari.co.jp" xmlUrl="https://www.safari.co.jp/news/feed/atom/" />
+        <outline text="ブログ – 野生の王国 群馬サファリパーク" title="ブログ – 野生の王国 群馬サファリパーク" type="rss" version="RSS" htmlUrl="https://www.safari.co.jp" xmlUrl="https://www.safari.co.jp/blog/feed/atom/" />
         <outline text="ようこそ！群馬サファリパークへ" title="ようこそ！群馬サファリパークへ (@gunmasafari) on Twitter" type="website" url="https://twitter.com/intent/user?user_id=1153906257129959425" />
       </outline>
       <outline text="かみね動物園">

@@ -198,10 +198,6 @@
         <outline text="遊亀公園附属動物園スタッフブログ" title="遊亀公園附属動物園スタッフブログ" type="rss" version="RSS" htmlUrl="https://blog.goo.ne.jp/kofu-zoo?fm=rss" xmlUrl="https://blog.goo.ne.jp/kofu-zoo/rss2.xml" />
         <outline text="甲府市遊亀公園附属動物園　公式ツイッター" title="甲府市遊亀公園附属動物園　公式ツイッター (@kofu_yuki_zoo) on Twitter" type="website" url="https://twitter.com/intent/user?user_id=1019052580415000576" />
       </outline>
-      <outline text="大洗水族館">
-        <outline text="アクアワールド茨城県大洗水族館" title="アクアワールド茨城県大洗水族館" type="rss" version="RSS" htmlUrl="http://www.aquaworld-oarai.com" xmlUrl="http://www.aquaworld-oarai.com/feed/atom" />
-        <outline text="アクアワールド茨城県大洗水族館" title="アクアワールド茨城県大洗水族館 (@aw_oarai) on Twitter" type="website" url="https://twitter.com/intent/user?user_id=266449884" />
-      </outline>
       <outline text="鴨川シーワールド">
         <outline text="鴨川シーワールド Kamogawa Sea World（official） - YouTube" title="鴨川シーワールド Kamogawa Sea World（official）" type="rss" version="RSS" htmlUrl="https://www.youtube.com/channel/UCUzl3bi1SfjT_uJIiGjzhag" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCUzl3bi1SfjT_uJIiGjzhag" />
         <outline text="鴨川シーワールド" title="鴨川シーワールド (@kamoseaOfficial) on Twitter" type="website" url="https://twitter.com/intent/user?user_id=748494854" />
@@ -235,9 +231,6 @@
         <outline text="横浜・八景島シーパラダイス公式" title="横浜・八景島シーパラダイス公式 (@_seaparadise_) on Twitter" type="website" url="https://twitter.com/intent/user?user_id=579452660" />
         <outline text="横浜・八景島シーパラダイス公式 アニメ/ゲーム部" title="横浜・八景島シーパラダイス公式 アニメ/ゲーム部 (@seaparadise_ag) on Twitter" type="website" url="https://twitter.com/intent/user?user_id=1086085674841780224" />
       </outline>
-      <outline text="相模川ふれあい科学館">
-        <outline text="相模川ふれあい科学館 アクアリウムさがみはら" title="相模川ふれあい科学館 アクアリウムさがみはら" type="rss" version="RSS" htmlUrl="https://sagamigawa-fureai.com" xmlUrl="https://sagamigawa-fureai.com/feed/atom/" />
-      </outline>
       <outline text="なかがわ水遊園">
       </outline>
       <outline text="富士水族館">
@@ -270,9 +263,6 @@
         <outline text="上越市立水族博物館 うみがたり" title="上越市立水族博物館 うみがたり (@_umigatari_) on Twitter" type="website" url="https://twitter.com/intent/user?user_id=914767453720215552" />
       </outline>
       <outline text="寺泊水族博物館">
-      </outline>
-      <outline text="魚津水族館">
-        <outline text="魚津水族館公式チャンネル - YouTube" title="魚津水族館公式チャンネル" type="rss" version="RSS" htmlUrl="https://www.youtube.com/channel/UCEi6GO8G6cbJf1wB80Tdobw" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCEi6GO8G6cbJf1wB80Tdobw" />
       </outline>
       <outline text="のとじま水族館">
       </outline>
@@ -351,16 +341,8 @@
         <outline text="伊豆・三津シーパラダイス - YouTube" title="伊豆・三津シーパラダイス" type="rss" version="RSS" htmlUrl="https://www.youtube.com/channel/UCuj7DniqD6zpKWxTtGSIrqw" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCuj7DniqD6zpKWxTtGSIrqw" />
         <outline text="うちっちー【公式】" title="うちっちー【公式】 (@Uchicchii) on Twitter" type="website" url="https://twitter.com/intent/user?user_id=747292851608838145" />
       </outline>
-      <outline text="下田海中水族館">
-        <outline text="下田海中水族館" title="下田海中水族館" type="rss" version="RSS" htmlUrl="https://shimoda-aquarium.com" xmlUrl="https://shimoda-aquarium.com/feed/atom/" />
-        <outline text="SHIMODA AQUARIUM 4K - YouTube" title="SHIMODA AQUARIUM 4K" type="rss" version="RSS" htmlUrl="https://www.youtube.com/channel/UCQ7yJC1ZZBeU3B0ksy3yXQQ" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCQ7yJC1ZZBeU3B0ksy3yXQQ" />
-        <outline text="下田海中水族館" title="下田海中水族館 (@aquariumshimoda) on Twitter" type="website" url="https://twitter.com/intent/user?user_id=3131486945" />
-      </outline>
       <outline text="東海大海洋博物館">
         <outline text="東海大学海洋科学博物館･自然史博物館" title="東海大学海洋科学博物館･自然史博物館 (@Muse_Tokai) on Twitter" type="website" url="https://twitter.com/intent/user?user_id=136808681" />
-      </outline>
-      <outline text="アクア・トトぎふ">
-        <outline text="世界淡水魚園水族館　アクア・トト ぎふ" title="世界淡水魚園水族館　アクア・トト ぎふ (@aquatotto) on Twitter" type="website" url="https://twitter.com/intent/user?user_id=71168009" />
       </outline>
       <outline text="南知多ビーチランド">
         <outline text="南知多ビーチランド／飼育員ブログ" title="南知多ビーチランド／飼育員ブログ" type="rss" version="RSS" htmlUrl="http://www.beachland.jp/beach_blog/" xmlUrl="http://www.beachland.jp/beach_blog/syndication.axd?format=atom" />
